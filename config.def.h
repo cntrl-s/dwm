@@ -35,7 +35,7 @@ static const Rule rules[] = {
 	{ "Gimp",     NULL,       NULL,       0,            1,           -1 },
 	{ "firefox",  NULL,       NULL,       1 << 1,       1,           -1 },
 	{ "Tor Browser", NULL,    NULL,       1 << 1,       1,           -1 },
-	{ "dolphin",   NULL,	  NULL,	      1 << 2, 	    1,           -1 },
+	{ "dolphin",   NULL,	  NULL,	      1 << 2, 	    0,           -1 },
 };
 
 /* layout(s) */
